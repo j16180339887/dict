@@ -2,6 +2,7 @@
 (It/that) serves you(him,her) right! = you deserve (he/she deserves it.) 活該！
 A damsel in distress. 等待英雄救美的女子
 A stick in the mud. 老古板
+A tall order. 不可能的任務、艱巨的任務
 Actions speak louder than words. 坐而言，不如起而行。
 All that/ She is all that. I can’t help thinking about her. 完美無瑕的
 All things must come to an end. 天下無不散的筵席。
@@ -55,6 +56,7 @@ Crass 沒風度。
 Crazy！ 神經病。
 Cut it out. 省省吧。
 Cut the crap! / Cut the shit / BullSHE（粗俗些） 少說廢話！
+Cut the shit. 別鬧了
 Day and night。 沒日沒夜。
 Dead in the eye. 死死地盯著 You look him dead in the eye. 你認真注視他的雙眼
 Doesn’t matter what you say. 說了也沒用。
@@ -116,6 +118,7 @@ Fair's fair. (用以表示不滿或提示)某人應受到公平對待 Come on, S
 Far from it! 還差得遠呢！
 Fat chance. =A poor chance =slim chance. 機會渺茫
 Fighting one's own. / In-fighting. 起內哄。
+Flip me Off. 對我比中指
 Flirt！ 花痴！
 For good. 永遠 That factory will shut down for good. 那間工廠將永久關閉
 Forget it！ 算了！
@@ -285,6 +288,7 @@ My cell phone’s out of batteries. 我手機沒電了。
 My heart hurts. (用來形容內心非常難過) 我的心在滴血。
 My treat。 我請客。
 Nailed it!/ You nailed it! 幹得好！
+Neeto/Neato/Neat! = Awesome! 讃啦
 Nerd. 書呆子。
 Never mind. 別放在心上。
 No class! 真沒水準！
@@ -419,6 +423,7 @@ What kind of look is that? 你那時什麼臉？
 What kind of talk is that? （表示對方講了一些洩氣、刻薄或令人生氣的話。 你說這什麼話？
 What nerve! 臉皮真厚！
 What right do you have to tell me what to do? 你憑什麼指使我？
+What rubbish! 鬼才信！搞什麼！
 What’s bugging you? (如用bothering代替bugging會顯得更正式些) 你在煩什麼？
 What’s eating you? 形容對方看起來疲憊、沮喪、生氣、不快樂等。 怎麼搞的？
 What’s in it for me? 我有什麼好處？
@@ -455,6 +460,7 @@ You have a lot of nerve. 臉皮真厚。
 You have to be on time. Don’t be late. 只準早到，不許遲到。
 You haven’t changed a bit! 你一點都沒變！
 You just don’t appreciate it. 不識抬舉。
+You just got roasted. 你剛剛被嗆欸
 You like to play with me, don’t you? 你就這麼愛耍我是嗎？
 You look alike! 你們長得好像喔。
 You look guilty. 你看上去心虛。
@@ -494,3 +500,4 @@ You’re welcome. / No problem. / No bother./ Don’t worry about it/ Don’t me
 Zip it!/ You’d better zip it! 閉嘴！
 Zone out / Sorry, I zoned out there for a second 慌神、出神、不專心
 tl;dr =too long; didn’t read 太長了，我沒讀完
+tripping. Why are you tripping? 發瘋、嚇壞、笑翻
